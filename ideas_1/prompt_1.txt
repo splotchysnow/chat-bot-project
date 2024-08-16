@@ -1,0 +1,16 @@
+-- Written by: Guan Li --
+-- Temperary first draft of this idea --
+
+-------------------------------------------------------------------------------------------------------------
+Purpose:
+Scope:
+Goals:
+Objectives:
+What task would it perform:
+problem it would solve:
+target audience:
+-------------------------------------------------------------------------------------------------------------
+Platforms:
+Frameworks:
+Whether to use an excisting API or python/NTLK -> currently temp idea, excisting API because I want to get familar with the standard tools. But I may use the python packages at some point because that is something I am familiar with and its slightly more challenging.
+-------------------------------------------------------------------------------------------------------------
